@@ -19,12 +19,12 @@ The project uses the following iText 7 modules:
 
 | File | Description | Result |
 | :--- | :--- | :--- |
-| `Main.java` | Basic PDF with Paragraphs and Images. | [Example 1](Firstpdf.pdf) |
-| `main2.java` | Working with Custom Fonts (`.ttf`) and simple Lists. | [Example 2](Secondthpdf.pdf) |
-| `Main3.java` | Using `Style` objects to reuse formatting across elements. | [Example 3](thirdpdf.pdf) |
-| `Main4.java` | Creating Tables with background colors and multi-column layouts. | [Example 4](forthpdf.pdf) |
-| `main5.java` | **Advanced Layout**: Nested tables and Lists inside table cells. | [Example 5](NestedTableList.pdf) |
-| `main6.java` | **Invoice Generator**: A real-world example of creating a professional invoice. | [Example 6](Invoice.pdf) |
+| `Main.java` | Basic PDF with Paragraphs and Images. | [Example 1](generated_pdf/Firstpdf.pdf) |
+| `main2.java` | Working with Custom Fonts (`.ttf`) and simple Lists. | [Example 2](generated_pdf/Secondthpdf.pdf) |
+| `Main3.java` | Using `Style` objects to reuse formatting across elements. | [Example 3](generated_pdf/thirdpdf.pdf) |
+| `Main4.java` | Creating Tables with background colors and multi-column layouts. | [Example 4](generated_pdf/forthpdf.pdf) |
+| `main5.java` | **Advanced Layout**: Nested tables and Lists inside table cells. | [Example 5](generated_pdf/NestedTableList.pdf) |
+| `main6.java` | **Invoice Generator**: A real-world example of creating a professional invoice. | [Example 6](generated_pdf/Invoice.pdf) |
 
 ## How to Run
 
