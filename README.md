@@ -2,7 +2,7 @@
 
 This project demonstrates various ways to generate PDF documents using the **iText 7** library in Java. It covers everything from basic text and images to complex nested tables and invoice generation.
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 * **Java 17** or higher
@@ -15,7 +15,7 @@ The project uses the following iText 7 modules:
 * `layout`: High-level layout API (Tables, Paragraphs, Lists)
 * `forms`, `pdfa`, `sign`, `barcodes`: Additional specialized modules
 
-## 📂 Project Structure
+## Project Structure
 
 | File | Description |
 | :--- | :--- |
@@ -26,7 +26,7 @@ The project uses the following iText 7 modules:
 | `main5.java` | **Advanced Layout**: Nested tables and Lists inside table cells. |
 | `main6.java` | **Invoice Generator**: A real-world example of creating a professional invoice. |
 
-## 🛠️ How to Run
+## How to Run
 
 1.  **Clone the repository** (if applicable).
 2.  **Build the project**:
@@ -42,7 +42,7 @@ The project uses the following iText 7 modules:
 > [!IMPORTANT]
 > Some files use absolute paths for output (e.g., `C:\Users\...\Documents\ITEXT\`). Ensure these directories exist or modify the `path` variable in the Java files before running.
 
-## 📝 Key Features Demonstrated
+## Key Features Demonstrated
 * **Text Formatting**: Bold, Italic, Font Colors, and Custom Fonts.
 * **Tables**: Cell borders, background colors, and nested tables.
 * **Lists**: Unordered lists and lists inside tables.
