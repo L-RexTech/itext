@@ -17,14 +17,14 @@ The project uses the following iText 7 modules:
 
 ## Project Structure
 
-| File | Description |
-| :--- | :--- |
-| `Main.java` | Basic PDF with Paragraphs and Images. |
-| `main2.java` | Working with Custom Fonts (`.ttf`) and simple Lists. |
-| `Main3.java` | Using `Style` objects to reuse formatting across elements. |
-| `Main4.java` | Creating Tables with background colors and multi-column layouts. |
-| `main5.java` | **Advanced Layout**: Nested tables and Lists inside table cells. |
-| `main6.java` | **Invoice Generator**: A real-world example of creating a professional invoice. |
+| File | Description | Result |
+| :--- | :--- | :--- |
+| `Main.java` | Basic PDF with Paragraphs and Images. | [Example 1](Firstpdf.pdf) |
+| `main2.java` | Working with Custom Fonts (`.ttf`) and simple Lists. | [Example 2](Secondthpdf.pdf) |
+| `Main3.java` | Using `Style` objects to reuse formatting across elements. | [Example 3](thirdpdf.pdf) |
+| `Main4.java` | Creating Tables with background colors and multi-column layouts. | [Example 4](forthpdf.pdf) |
+| `main5.java` | **Advanced Layout**: Nested tables and Lists inside table cells. | [Example 5](NestedTableList.pdf) |
+| `main6.java` | **Invoice Generator**: A real-world example of creating a professional invoice. | [Example 6](Invoice.pdf) |
 
 ## How to Run
 
